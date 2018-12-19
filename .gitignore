@@ -2,3 +2,6 @@ getCinema.iml
 .idea/
 target/
 dependency-reduced-pom.xml
+HelloWorld.iml
+src/main/main.iml
+src/test/test.iml
